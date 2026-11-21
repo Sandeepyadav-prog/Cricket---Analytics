@@ -1,0 +1,499 @@
+season,batting_team,match_phase,total_runs,total_wickets,delivery_records,runs_per_delivery_record
+2018,Sunrisers Hyderabad,Middle Overs,1241,28,945,1.31
+2019,Delhi Capitals,Powerplay,816,21,596,1.37
+2021,Rajasthan Royals,Middle Overs,996,37,790,1.26
+2022,Delhi Capitals,Death Overs,630,21,370,1.7
+2023,Delhi Capitals,Middle Overs,945,38,780,1.21
+2025,Sunrisers Hyderabad,Death Overs,613,30,351,1.75
+2008,Deccan Chargers,Powerplay,632,19,527,1.2
+2010,Chennai Super Kings,Death Overs,709,30,457,1.55
+2011,Kings XI Punjab,Powerplay,628,23,531,1.18
+2011,Rajasthan Royals,Middle Overs,833,35,698,1.19
+2012,Delhi Daredevils,Middle Overs,1273,37,965,1.32
+2012,Rajasthan Royals,Middle Overs,1054,36,895,1.18
+2013,Delhi Daredevils,Middle Overs,985,39,889,1.11
+2013,Royal Challengers Bangalore,Death Overs,746,34,428,1.74
+2014,Delhi Daredevils,Death Overs,591,27,384,1.54
+2014,Royal Challengers Bangalore,Powerplay,506,28,512,0.99
+2016,Rising Pune Supergiants,Powerplay,638,16,522,1.22
+2016,Kolkata Knight Riders,Middle Overs,990,28,779,1.27
+2016,Kings XI Punjab,Death Overs,565,36,371,1.52
+2017,Royal Challengers Bangalore,Death Overs,507,36,364,1.39
+2017,Mumbai Indians,Powerplay,874,27,653,1.34
+2017,Rising Pune Supergiant,Powerplay,785,22,598,1.31
+2017,Mumbai Indians,Death Overs,768,35,462,1.66
+2018,Chennai Super Kings,Middle Overs,1177,38,902,1.3
+2018,Delhi Daredevils,Powerplay,695,25,523,1.33
+2018,Kolkata Knight Riders,Middle Overs,1178,40,884,1.33
+2019,Chennai Super Kings,Powerplay,657,30,622,1.06
+2022,Gujarat Titans,Death Overs,805,31,484,1.66
+2023,Gujarat Titans,Powerplay,888,21,637,1.39
+2023,Sunrisers Hyderabad,Powerplay,665,24,523,1.27
+2023,Sunrisers Hyderabad,Death Overs,663,30,423,1.57
+2023,Lucknow Super Giants,Powerplay,715,22,565,1.27
+2023,Kolkata Knight Riders,Death Overs,662,36,418,1.58
+2024,Punjab Kings,Middle Overs,1071,41,777,1.38
+2024,Sunrisers Hyderabad,Death Overs,734,33,444,1.65
+2024,Lucknow Super Giants,Death Overs,668,24,410,1.63
+2025,Rajasthan Royals,Middle Overs,1091,40,777,1.4
+2026,Rajasthan Royals,Middle Overs,1315,41,860,1.53
+2008,Royal Challengers Bangalore,Death Overs,540,37,350,1.54
+2008,Kings XI Punjab,Powerplay,774,19,559,1.38
+2009,Delhi Daredevils,Powerplay,707,22,558,1.27
+2011,Deccan Chargers,Middle Overs,913,35,769,1.19
+2011,Kochi Tuskers Kerala,Middle Overs,831,27,744,1.12
+2011,Royal Challengers Bangalore,Middle Overs,1087,34,864,1.26
+2012,Mumbai Indians,Middle Overs,1151,39,940,1.22
+2015,Rajasthan Royals,Death Overs,616,32,385,1.6
+2016,Kings XI Punjab,Middle Overs,933,38,767,1.22
+2017,Kings XI Punjab,Middle Overs,971,27,732,1.33
+2018,Sunrisers Hyderabad,Powerplay,795,26,638,1.25
+2018,Sunrisers Hyderabad,Death Overs,685,45,491,1.4
+2019,Chennai Super Kings,Death Overs,742,27,478,1.55
+2019,Kolkata Knight Riders,Death Overs,739,27,396,1.87
+2019,Mumbai Indians,Death Overs,796,35,469,1.7
+2019,Rajasthan Royals,Powerplay,692,17,499,1.39
+2020,Sunrisers Hyderabad,Death Overs,623,41,435,1.43
+2021,Delhi Capitals,Death Overs,646,23,438,1.47
+2022,Royal Challengers Bangalore,Middle Overs,1167,38,910,1.28
+2022,Rajasthan Royals,Powerplay,854,19,633,1.35
+2023,Gujarat Titans,Middle Overs,1297,34,938,1.38
+2023,Delhi Capitals,Powerplay,692,28,522,1.33
+2023,Royal Challengers Bangalore,Powerplay,777,12,512,1.52
+2024,Chennai Super Kings,Middle Overs,1049,34,779,1.35
+2024,Kolkata Knight Riders,Middle Overs,1175,28,759,1.55
+2025,Royal Challengers Bengaluru,Death Overs,626,30,355,1.76
+2026,Chennai Super Kings,Powerplay,840,30,535,1.57
+2026,Punjab Kings,Powerplay,854,18,498,1.71
+2008,Rajasthan Royals,Middle Overs,1291,38,899,1.44
+2009,Mumbai Indians,Powerplay,503,26,506,0.99
+2009,Chennai Super Kings,Death Overs,588,34,408,1.44
+2010,Kolkata Knight Riders,Death Overs,588,25,393,1.5
+2010,Mumbai Indians,Death Overs,878,39,485,1.81
+2010,Kings XI Punjab,Powerplay,684,19,531,1.29
+2010,Royal Challengers Bangalore,Death Overs,623,31,370,1.68
+2010,Chennai Super Kings,Powerplay,763,24,609,1.25
+2011,Mumbai Indians,Powerplay,662,22,592,1.12
+2012,Pune Warriors,Death Overs,677,40,488,1.39
+2012,Kolkata Knight Riders,Death Overs,653,36,457,1.43
+2013,Kolkata Knight Riders,Middle Overs,954,38,877,1.09
+2014,Sunrisers Hyderabad,Powerplay,666,17,524,1.27
+2015,Kolkata Knight Riders,Middle Overs,878,34,673,1.3
+2015,Chennai Super Kings,Powerplay,811,25,635,1.28
+2016,Mumbai Indians,Death Overs,631,28,377,1.67
+2017,Rising Pune Supergiant,Middle Overs,1004,30,862,1.16
+2018,Kolkata Knight Riders,Powerplay,875,26,593,1.48
+2019,Rajasthan Royals,Death Overs,576,34,389,1.48
+2020,Kings XI Punjab,Middle Overs,1012,30,780,1.3
+2020,Kings XI Punjab,Powerplay,699,18,533,1.31
+2020,Royal Challengers Bangalore,Death Overs,675,34,415,1.63
+2021,Kolkata Knight Riders,Powerplay,794,20,635,1.25
+2021,Punjab Kings,Powerplay,595,15,521,1.14
+2022,Mumbai Indians,Powerplay,626,19,524,1.19
+2022,Punjab Kings,Death Overs,562,33,386,1.46
+2024,Royal Challengers Bengaluru,Powerplay,876,21,552,1.59
+2024,Kolkata Knight Riders,Powerplay,930,21,531,1.75
+2024,Kolkata Knight Riders,Death Overs,562,27,304,1.85
+2025,Chennai Super Kings,Death Overs,678,30,440,1.54
+2026,Sunrisers Hyderabad,Middle Overs,1365,40,854,1.6
+2026,Royal Challengers Bengaluru,Powerplay,1000,23,595,1.68
+2026,Chennai Super Kings,Middle Overs,1070,30,779,1.37
+2009,Rajasthan Royals,Death Overs,417,30,330,1.26
+2010,Kolkata Knight Riders,Powerplay,627,22,535,1.17
+2010,Delhi Daredevils,Powerplay,717,28,524,1.37
+2010,Royal Challengers Bangalore,Powerplay,726,15,604,1.2
+2010,Deccan Chargers,Powerplay,715,32,607,1.18
+2011,Chennai Super Kings,Powerplay,614,21,597,1.03
+2011,Chennai Super Kings,Death Overs,787,32,467,1.69
+2011,Kochi Tuskers Kerala,Powerplay,680,23,533,1.28
+2011,Delhi Daredevils,Powerplay,581,24,531,1.09
+2013,Delhi Daredevils,Death Overs,610,41,444,1.37
+2013,Royal Challengers Bangalore,Middle Overs,1126,28,854,1.32
+2013,Sunrisers Hyderabad,Powerplay,647,31,643,1.01
+2013,Chennai Super Kings,Middle Overs,1157,38,954,1.21
+2016,Gujarat Lions,Death Overs,581,36,410,1.42
+2016,Sunrisers Hyderabad,Death Overs,723,44,462,1.56
+2017,Royal Challengers Bangalore,Powerplay,534,26,483,1.11
+2017,Royal Challengers Bangalore,Middle Overs,804,35,689,1.17
+2017,Kolkata Knight Riders,Middle Overs,1142,28,832,1.37
+2017,Kings XI Punjab,Death Overs,542,31,346,1.57
+2017,Delhi Daredevils,Middle Overs,946,39,769,1.23
+2018,Delhi Daredevils,Death Overs,666,17,361,1.84
+2018,Rajasthan Royals,Death Overs,595,36,394,1.51
+2018,Mumbai Indians,Powerplay,702,20,524,1.34
+2019,Delhi Capitals,Middle Overs,1057,37,888,1.19
+2019,Kings XI Punjab,Death Overs,637,32,418,1.52
+2020,Mumbai Indians,Middle Overs,1140,31,863,1.32
+2020,Chennai Super Kings,Death Overs,660,24,399,1.65
+2020,Delhi Capitals,Middle Overs,1234,33,948,1.3
+2020,Kings XI Punjab,Death Overs,646,28,404,1.6
+2020,Kolkata Knight Riders,Middle Overs,938,41,778,1.21
+2021,Kolkata Knight Riders,Death Overs,593,43,436,1.36
+2022,Kolkata Knight Riders,Powerplay,610,27,522,1.17
+2023,Gujarat Titans,Death Overs,869,31,475,1.83
+2024,Royal Challengers Bengaluru,Middle Overs,1238,40,835,1.48
+2025,Mumbai Indians,Middle Overs,1261,37,883,1.43
+2025,Gujarat Titans,Death Overs,708,42,428,1.65
+2026,Mumbai Indians,Death Overs,633,30,388,1.63
+2026,Gujarat Titans,Powerplay,984,20,643,1.53
+2026,Gujarat Titans,Middle Overs,1413,39,955,1.48
+2009,Kolkata Knight Riders,Middle Overs,677,26,682,0.99
+2009,Deccan Chargers,Powerplay,807,23,604,1.34
+2010,Rajasthan Royals,Middle Overs,1014,35,782,1.3
+2011,Deccan Chargers,Powerplay,612,16,524,1.17
+2011,Royal Challengers Bangalore,Powerplay,807,22,602,1.34
+2011,Rajasthan Royals,Death Overs,342,19,269,1.27
+2012,Mumbai Indians,Powerplay,663,22,638,1.04
+2013,Sunrisers Hyderabad,Middle Overs,977,39,932,1.05
+2014,Kings XI Punjab,Powerplay,866,25,651,1.33
+2015,Delhi Daredevils,Middle Overs,967,30,773,1.25
+2015,Sunrisers Hyderabad,Death Overs,599,32,389,1.54
+2017,Kolkata Knight Riders,Powerplay,896,28,597,1.5
+2018,Kings XI Punjab,Powerplay,722,21,513,1.41
+2019,Royal Challengers Bangalore,Powerplay,708,24,514,1.38
+2020,Mumbai Indians,Powerplay,818,23,614,1.33
+2022,Chennai Super Kings,Powerplay,630,23,527,1.2
+2022,Mumbai Indians,Death Overs,642,35,393,1.63
+2023,Punjab Kings,Powerplay,730,28,531,1.37
+2024,Mumbai Indians,Powerplay,789,25,526,1.5
+2025,Royal Challengers Bengaluru,Powerplay,882,18,559,1.58
+2025,Mumbai Indians,Death Overs,716,29,401,1.79
+2026,Kolkata Knight Riders,Powerplay,724,27,513,1.41
+2026,Rajasthan Royals,Powerplay,1120,24,604,1.85
+2008,Deccan Chargers,Death Overs,649,42,387,1.68
+2010,Delhi Daredevils,Death Overs,547,22,383,1.43
+2011,Chennai Super Kings,Middle Overs,1159,21,883,1.31
+2011,Delhi Daredevils,Death Overs,602,36,386,1.56
+2011,Mumbai Indians,Middle Overs,959,36,880,1.09
+2012,Chennai Super Kings,Death Overs,834,43,515,1.62
+2012,Rajasthan Royals,Powerplay,731,14,594,1.23
+2014,Royal Challengers Bangalore,Death Overs,650,24,374,1.74
+2015,Mumbai Indians,Powerplay,696,24,606,1.15
+2015,Chennai Super Kings,Death Overs,740,41,482,1.54
+2016,Rising Pune Supergiants,Middle Overs,895,25,734,1.22
+2016,Kings XI Punjab,Powerplay,636,17,523,1.22
+2017,Sunrisers Hyderabad,Powerplay,682,11,516,1.32
+2018,Mumbai Indians,Death Overs,619,36,426,1.45
+2018,Rajasthan Royals,Powerplay,779,19,556,1.4
+2019,Kolkata Knight Riders,Middle Overs,1057,31,782,1.35
+2019,Rajasthan Royals,Middle Overs,926,25,725,1.28
+2019,Royal Challengers Bangalore,Death Overs,647,32,382,1.69
+2020,Sunrisers Hyderabad,Middle Overs,1102,29,889,1.24
+2021,Chennai Super Kings,Powerplay,728,16,589,1.24
+2021,Sunrisers Hyderabad,Middle Overs,858,35,781,1.1
+2022,Chennai Super Kings,Middle Overs,1007,30,781,1.29
+2022,Sunrisers Hyderabad,Death Overs,580,33,369,1.57
+2023,Chennai Super Kings,Powerplay,843,9,559,1.51
+2023,Rajasthan Royals,Middle Overs,985,40,745,1.32
+2024,Delhi Capitals,Middle Overs,1035,37,738,1.4
+2024,Gujarat Titans,Death Overs,581,30,352,1.65
+2024,Mumbai Indians,Death Overs,648,36,377,1.72
+2025,Royal Challengers Bengaluru,Middle Overs,1145,34,799,1.43
+2025,Lucknow Super Giants,Middle Overs,1251,30,794,1.58
+2025,Delhi Capitals,Powerplay,749,27,528,1.42
+2026,Punjab Kings,Middle Overs,1167,33,735,1.59
+2026,Delhi Capitals,Death Overs,675,30,387,1.74
+2026,Rajasthan Royals,Death Overs,641,34,391,1.64
+2008,Delhi Daredevils,Middle Overs,994,30,746,1.33
+2009,Kings XI Punjab,Powerplay,590,25,537,1.1
+2009,Kolkata Knight Riders,Death Overs,570,24,340,1.68
+2012,Royal Challengers Bangalore,Middle Overs,1050,26,838,1.25
+2012,Royal Challengers Bangalore,Death Overs,794,34,453,1.75
+2013,Mumbai Indians,Powerplay,770,23,707,1.09
+2013,Rajasthan Royals,Powerplay,737,19,669,1.1
+2013,Chennai Super Kings,Powerplay,761,24,666,1.14
+2014,Kolkata Knight Riders,Middle Overs,1163,35,876,1.33
+2014,Chennai Super Kings,Middle Overs,1071,33,883,1.21
+2014,Rajasthan Royals,Middle Overs,927,37,759,1.22
+2016,Rising Pune Supergiants,Death Overs,530,27,324,1.64
+2017,Gujarat Lions,Death Overs,578,28,377,1.53
+2020,Delhi Capitals,Powerplay,757,29,639,1.18
+2020,Delhi Capitals,Death Overs,789,43,521,1.51
+2020,Kolkata Knight Riders,Powerplay,600,23,523,1.15
+2022,Delhi Capitals,Middle Overs,953,37,755,1.26
+2022,Lucknow Super Giants,Middle Overs,1119,31,829,1.35
+2022,Kolkata Knight Riders,Death Overs,529,30,328,1.61
+2023,Royal Challengers Bangalore,Death Overs,612,31,402,1.52
+2024,Lucknow Super Giants,Powerplay,695,26,524,1.33
+2026,Gujarat Titans,Death Overs,697,32,450,1.55
+2008,Rajasthan Royals,Powerplay,752,21,599,1.26
+2008,Mumbai Indians,Powerplay,686,19,540,1.27
+2008,Mumbai Indians,Death Overs,496,31,319,1.55
+2008,Delhi Daredevils,Death Overs,412,26,276,1.49
+2009,Kings XI Punjab,Death Overs,509,26,385,1.32
+2010,Mumbai Indians,Powerplay,802,18,622,1.29
+2011,Kings XI Punjab,Middle Overs,1072,28,775,1.38
+2012,Chennai Super Kings,Powerplay,801,17,671,1.19
+2012,Kings XI Punjab,Middle Overs,1070,39,882,1.21
+2013,Delhi Daredevils,Powerplay,650,32,609,1.07
+2013,Kings XI Punjab,Powerplay,704,24,589,1.2
+2014,Sunrisers Hyderabad,Middle Overs,832,25,716,1.16
+2015,Mumbai Indians,Death Overs,902,34,473,1.91
+2017,Mumbai Indians,Middle Overs,1158,46,938,1.23
+2017,Kings XI Punjab,Powerplay,694,25,525,1.32
+2017,Delhi Daredevils,Death Overs,589,32,365,1.61
+2018,Chennai Super Kings,Powerplay,780,20,589,1.32
+2018,Kings XI Punjab,Death Overs,559,34,354,1.58
+2020,Chennai Super Kings,Powerplay,599,21,521,1.15
+2020,Chennai Super Kings,Middle Overs,932,22,779,1.2
+2020,Rajasthan Royals,Death Overs,632,28,381,1.66
+2021,Mumbai Indians,Powerplay,676,14,518,1.31
+2022,Lucknow Super Giants,Death Overs,759,33,456,1.66
+2022,Sunrisers Hyderabad,Powerplay,590,19,517,1.14
+2023,Kolkata Knight Riders,Middle Overs,1101,32,781,1.41
+2025,Kolkata Knight Riders,Death Overs,486,24,274,1.77
+2025,Delhi Capitals,Middle Overs,1103,32,773,1.43
+2008,Kolkata Knight Riders,Middle Overs,823,30,729,1.13
+2008,Royal Challengers Bangalore,Powerplay,546,29,525,1.04
+2008,Chennai Super Kings,Middle Overs,1134,31,850,1.33
+2008,Kings XI Punjab,Middle Overs,1088,33,790,1.38
+2008,Kings XI Punjab,Death Overs,602,27,390,1.54
+2008,Deccan Chargers,Middle Overs,948,32,754,1.26
+2009,Delhi Daredevils,Death Overs,596,30,377,1.58
+2011,Pune Warriors,Powerplay,543,23,487,1.11
+2012,Pune Warriors,Middle Overs,968,35,890,1.09
+2012,Royal Challengers Bangalore,Powerplay,628,23,560,1.12
+2012,Deccan Chargers,Death Overs,719,37,431,1.67
+2013,Rajasthan Royals,Death Overs,723,34,493,1.47
+2013,Kings XI Punjab,Death Overs,640,45,411,1.56
+2014,Kolkata Knight Riders,Death Overs,633,33,395,1.6
+2014,Kings XI Punjab,Middle Overs,1353,38,944,1.43
+2015,Kings XI Punjab,Powerplay,638,34,528,1.21
+2016,Mumbai Indians,Middle Overs,963,31,773,1.25
+2016,Royal Challengers Bangalore,Death Overs,876,28,441,1.99
+2017,Rising Pune Supergiant,Death Overs,681,38,440,1.55
+2017,Gujarat Lions,Powerplay,763,19,526,1.45
+2018,Royal Challengers Bangalore,Powerplay,715,17,514,1.39
+2019,Sunrisers Hyderabad,Middle Overs,1028,30,828,1.24
+2022,Chennai Super Kings,Death Overs,651,35,411,1.58
+2022,Rajasthan Royals,Middle Overs,1219,36,945,1.29
+2022,Rajasthan Royals,Death Overs,870,42,529,1.64
+2022,Delhi Capitals,Powerplay,758,23,525,1.44
+2023,Punjab Kings,Death Overs,804,37,437,1.84
+2023,Kolkata Knight Riders,Powerplay,700,29,529,1.32
+2023,Mumbai Indians,Death Overs,747,39,442,1.69
+2024,Chennai Super Kings,Death Overs,742,24,419,1.77
+2024,Rajasthan Royals,Powerplay,773,19,564,1.37
+2024,Lucknow Super Giants,Middle Overs,1120,34,794,1.41
+2024,Gujarat Titans,Powerplay,556,16,450,1.24
+2025,Kolkata Knight Riders,Middle Overs,793,40,646,1.23
+2025,Kolkata Knight Riders,Powerplay,723,18,461,1.57
+2026,Royal Challengers Bengaluru,Middle Overs,1361,40,857,1.59
+2026,Mumbai Indians,Powerplay,779,28,517,1.51
+2008,Royal Challengers Bangalore,Middle Overs,897,40,784,1.14
+2009,Mumbai Indians,Death Overs,584,34,383,1.52
+2009,Rajasthan Royals,Middle Overs,806,38,722,1.12
+2009,Kolkata Knight Riders,Powerplay,525,23,500,1.05
+2009,Royal Challengers Bangalore,Death Overs,644,37,436,1.48
+2011,Pune Warriors,Death Overs,436,25,328,1.33
+2012,Chennai Super Kings,Middle Overs,1196,41,997,1.2
+2012,Kolkata Knight Riders,Powerplay,768,21,642,1.2
+2012,Rajasthan Royals,Death Overs,731,34,472,1.55
+2012,Kings XI Punjab,Powerplay,640,22,595,1.08
+2013,Kolkata Knight Riders,Powerplay,709,24,602,1.18
+2013,Pune Warriors,Middle Overs,966,37,880,1.1
+2014,Chennai Super Kings,Powerplay,835,14,591,1.41
+2014,Chennai Super Kings,Death Overs,744,23,449,1.66
+2015,Delhi Daredevils,Powerplay,602,18,534,1.13
+2015,Kings XI Punjab,Death Overs,548,32,370,1.48
+2017,Kolkata Knight Riders,Death Overs,446,32,337,1.32
+2017,Delhi Daredevils,Powerplay,684,26,516,1.33
+2018,Kings XI Punjab,Middle Overs,929,38,750,1.24
+2018,Royal Challengers Bangalore,Middle Overs,969,40,729,1.33
+2018,Royal Challengers Bangalore,Death Overs,638,29,378,1.69
+2020,Royal Challengers Bangalore,Powerplay,689,16,574,1.2
+2020,Rajasthan Royals,Middle Overs,1006,33,779,1.29
+2021,Chennai Super Kings,Middle Overs,1169,39,900,1.3
+2022,Gujarat Titans,Middle Overs,1118,30,888,1.26
+2023,Chennai Super Kings,Middle Overs,1184,42,825,1.44
+2023,Royal Challengers Bangalore,Middle Overs,1113,37,779,1.43
+2024,Delhi Capitals,Death Overs,641,29,372,1.72
+2024,Punjab Kings,Powerplay,743,23,519,1.43
+2024,Rajasthan Royals,Middle Overs,1155,34,850,1.36
+2025,Sunrisers Hyderabad,Powerplay,761,22,505,1.51
+2025,Rajasthan Royals,Death Overs,598,33,372,1.61
+2025,Punjab Kings,Middle Overs,1419,44,955,1.49
+2025,Delhi Capitals,Death Overs,648,29,368,1.76
+2026,Mumbai Indians,Middle Overs,1141,32,762,1.5
+2026,Lucknow Super Giants,Powerplay,866,19,527,1.64
+2009,Chennai Super Kings,Powerplay,714,16,526,1.36
+2009,Kings XI Punjab,Middle Overs,829,36,765,1.08
+2010,Deccan Chargers,Middle Overs,1090,38,891,1.22
+2010,Rajasthan Royals,Death Overs,498,37,358,1.39
+2010,Royal Challengers Bangalore,Middle Overs,1052,40,853,1.23
+2011,Kolkata Knight Riders,Middle Overs,923,21,784,1.18
+2011,Kings XI Punjab,Death Overs,524,37,399,1.31
+2011,Deccan Chargers,Death Overs,615,36,426,1.44
+2013,Royal Challengers Bangalore,Powerplay,729,16,611,1.19
+2013,Mumbai Indians,Death Overs,926,46,560,1.65
+2015,Mumbai Indians,Middle Overs,1136,29,875,1.3
+2015,Kolkata Knight Riders,Death Overs,507,27,308,1.65
+2015,Chennai Super Kings,Middle Overs,1174,38,952,1.23
+2015,Rajasthan Royals,Middle Overs,948,34,729,1.3
+2015,Sunrisers Hyderabad,Powerplay,706,19,522,1.35
+2016,Sunrisers Hyderabad,Powerplay,800,17,633,1.26
+2016,Sunrisers Hyderabad,Middle Overs,1150,36,939,1.22
+2017,Sunrisers Hyderabad,Middle Overs,1049,24,777,1.35
+2017,Sunrisers Hyderabad,Death Overs,618,27,386,1.6
+2018,Mumbai Indians,Middle Overs,1059,33,780,1.36
+2018,Chennai Super Kings,Death Overs,852,19,466,1.83
+2019,Chennai Super Kings,Middle Overs,1074,31,950,1.13
+2019,Mumbai Indians,Powerplay,781,17,590,1.32
+2020,Royal Challengers Bangalore,Middle Overs,925,29,830,1.11
+2020,Rajasthan Royals,Powerplay,650,29,521,1.25
+2021,Royal Challengers Bangalore,Powerplay,706,19,567,1.25
+2021,Royal Challengers Bangalore,Middle Overs,959,36,835,1.15
+2021,Delhi Capitals,Middle Overs,1060,36,886,1.2
+2022,Mumbai Indians,Middle Overs,949,40,774,1.23
+2022,Royal Challengers Bangalore,Death Overs,769,37,454,1.69
+2022,Punjab Kings,Middle Overs,1008,45,798,1.26
+2023,Lucknow Super Giants,Middle Overs,1083,45,834,1.3
+2023,Lucknow Super Giants,Death Overs,681,36,433,1.57
+2025,Lucknow Super Giants,Powerplay,783,14,523,1.5
+2026,Kolkata Knight Riders,Death Overs,547,17,330,1.66
+2026,Lucknow Super Giants,Death Overs,642,34,393,1.63
+2026,Delhi Capitals,Powerplay,728,26,529,1.38
+2009,Deccan Chargers,Middle Overs,1020,39,872,1.17
+2010,Mumbai Indians,Middle Overs,1058,45,888,1.19
+2010,Rajasthan Royals,Powerplay,667,22,524,1.27
+2011,Royal Challengers Bangalore,Death Overs,575,23,369,1.56
+2012,Deccan Chargers,Powerplay,651,19,557,1.17
+2013,Mumbai Indians,Middle Overs,1279,45,1045,1.22
+2014,Kolkata Knight Riders,Powerplay,703,21,608,1.16
+2014,Mumbai Indians,Middle Overs,1066,25,822,1.3
+2015,Kolkata Knight Riders,Powerplay,659,17,491,1.34
+2015,Sunrisers Hyderabad,Middle Overs,905,30,750,1.21
+2015,Royal Challengers Bangalore,Powerplay,737,23,573,1.29
+2015,Royal Challengers Bangalore,Middle Overs,994,28,688,1.44
+2016,Mumbai Indians,Powerplay,600,25,524,1.15
+2016,Kolkata Knight Riders,Powerplay,709,19,554,1.28
+2016,Gujarat Lions,Powerplay,796,25,599,1.33
+2016,Gujarat Lions,Middle Overs,1073,41,882,1.22
+2018,Kolkata Knight Riders,Death Overs,706,38,449,1.57
+2018,Rajasthan Royals,Middle Overs,983,44,810,1.21
+2019,Kolkata Knight Riders,Powerplay,677,21,519,1.3
+2020,Kolkata Knight Riders,Death Overs,684,32,424,1.61
+2021,Sunrisers Hyderabad,Death Overs,564,41,426,1.32
+2021,Rajasthan Royals,Death Overs,577,33,400,1.44
+2022,Royal Challengers Bangalore,Powerplay,696,23,601,1.16
+2022,Gujarat Titans,Powerplay,740,21,599,1.24
+2022,Sunrisers Hyderabad,Middle Overs,1027,28,737,1.39
+2023,Mumbai Indians,Powerplay,887,22,596,1.49
+2024,Royal Challengers Bengaluru,Death Overs,816,38,431,1.89
+2024,Sunrisers Hyderabad,Middle Overs,1245,43,870,1.43
+2024,Rajasthan Royals,Death Overs,719,28,418,1.72
+2025,Chennai Super Kings,Powerplay,731,29,525,1.39
+2025,Mumbai Indians,Powerplay,935,20,602,1.55
+2026,Lucknow Super Giants,Middle Overs,1004,42,790,1.27
+2026,Delhi Capitals,Middle Overs,1156,31,790,1.46
+2008,Chennai Super Kings,Death Overs,664,28,409,1.62
+2008,Delhi Daredevils,Powerplay,712,21,525,1.36
+2009,Royal Challengers Bangalore,Powerplay,637,28,606,1.05
+2010,Deccan Chargers,Death Overs,569,44,445,1.28
+2011,Kolkata Knight Riders,Powerplay,625,22,560,1.12
+2011,Rajasthan Royals,Powerplay,512,14,485,1.06
+2011,Kochi Tuskers Kerala,Death Overs,390,36,305,1.28
+2011,Pune Warriors,Middle Overs,796,35,711,1.12
+2011,Mumbai Indians,Death Overs,667,24,435,1.53
+2012,Delhi Daredevils,Powerplay,854,29,666,1.28
+2012,Deccan Chargers,Middle Overs,942,33,826,1.14
+2012,Kings XI Punjab,Death Overs,680,41,450,1.51
+2014,Mumbai Indians,Death Overs,597,46,414,1.44
+2015,Royal Challengers Bangalore,Death Overs,580,28,315,1.84
+2015,Delhi Daredevils,Death Overs,599,28,377,1.59
+2016,Delhi Daredevils,Death Overs,542,25,356,1.52
+2016,Royal Challengers Bangalore,Powerplay,778,17,592,1.31
+2018,Delhi Daredevils,Middle Overs,982,33,717,1.37
+2019,Mumbai Indians,Middle Overs,1093,40,883,1.24
+2019,Kings XI Punjab,Powerplay,679,15,518,1.31
+2019,Kings XI Punjab,Middle Overs,1113,27,782,1.42
+2019,Sunrisers Hyderabad,Death Overs,585,42,385,1.52
+2020,Sunrisers Hyderabad,Powerplay,806,17,607,1.33
+2021,Mumbai Indians,Middle Overs,901,37,741,1.22
+2021,Delhi Capitals,Powerplay,789,19,596,1.32
+2021,Kolkata Knight Riders,Middle Overs,1172,42,910,1.29
+2021,Sunrisers Hyderabad,Powerplay,662,16,526,1.26
+2022,Punjab Kings,Powerplay,773,21,528,1.46
+2022,Lucknow Super Giants,Powerplay,670,25,555,1.21
+2023,Punjab Kings,Middle Overs,1022,34,784,1.3
+2023,Rajasthan Royals,Death Overs,644,26,362,1.78
+2024,Punjab Kings,Death Overs,673,28,397,1.7
+2024,Mumbai Indians,Middle Overs,1131,35,783,1.44
+2025,Chennai Super Kings,Middle Overs,1032,36,779,1.32
+2026,Punjab Kings,Death Overs,690,23,356,1.94
+2026,Royal Challengers Bengaluru,Death Overs,696,21,384,1.81
+2008,Chennai Super Kings,Powerplay,722,20,615,1.17
+2008,Rajasthan Royals,Death Overs,558,29,363,1.54
+2009,Chennai Super Kings,Middle Overs,929,31,775,1.2
+2009,Rajasthan Royals,Powerplay,483,25,495,0.98
+2010,Kings XI Punjab,Middle Overs,949,32,775,1.22
+2010,Kings XI Punjab,Death Overs,655,30,410,1.6
+2012,Pune Warriors,Powerplay,676,29,597,1.13
+2012,Mumbai Indians,Death Overs,648,46,476,1.36
+2013,Sunrisers Hyderabad,Death Overs,694,37,469,1.48
+2013,Rajasthan Royals,Middle Overs,1245,41,995,1.25
+2014,Delhi Daredevils,Middle Overs,913,36,773,1.18
+2014,Rajasthan Royals,Death Overs,635,33,383,1.66
+2014,Rajasthan Royals,Powerplay,604,18,531,1.14
+2016,Delhi Daredevils,Middle Overs,981,28,766,1.28
+2017,Gujarat Lions,Middle Overs,1071,39,772,1.39
+2019,Royal Challengers Bangalore,Middle Overs,853,28,710,1.2
+2019,Delhi Capitals,Death Overs,656,50,425,1.54
+2020,Mumbai Indians,Death Overs,800,23,402,1.99
+2021,Punjab Kings,Death Overs,561,31,389,1.44
+2021,Rajasthan Royals,Powerplay,623,25,512,1.22
+2023,Delhi Capitals,Death Overs,545,38,416,1.31
+2023,Sunrisers Hyderabad,Middle Overs,1048,36,782,1.34
+2023,Rajasthan Royals,Powerplay,790,18,526,1.5
+2024,Chennai Super Kings,Powerplay,733,19,521,1.41
+2024,Delhi Capitals,Powerplay,897,28,531,1.69
+2024,Sunrisers Hyderabad,Powerplay,1073,29,605,1.77
+2025,Rajasthan Royals,Powerplay,925,21,531,1.74
+2025,Lucknow Super Giants,Death Overs,698,38,427,1.63
+2025,Punjab Kings,Death Overs,768,27,409,1.88
+2025,Gujarat Titans,Middle Overs,1354,24,847,1.6
+2026,Sunrisers Hyderabad,Powerplay,997,23,574,1.74
+2026,Sunrisers Hyderabad,Death Overs,688,38,414,1.66
+2008,Kolkata Knight Riders,Death Overs,585,29,334,1.75
+2008,Mumbai Indians,Middle Overs,898,30,725,1.24
+2009,Royal Challengers Bangalore,Middle Overs,999,41,887,1.13
+2009,Deccan Chargers,Death Overs,581,39,414,1.4
+2009,Delhi Daredevils,Middle Overs,828,23,777,1.07
+2010,Kolkata Knight Riders,Middle Overs,929,24,788,1.18
+2010,Delhi Daredevils,Middle Overs,891,38,779,1.14
+2010,Chennai Super Kings,Middle Overs,1132,35,885,1.28
+2011,Kolkata Knight Riders,Death Overs,475,28,331,1.44
+2011,Delhi Daredevils,Middle Overs,904,35,748,1.21
+2013,Pune Warriors,Powerplay,676,24,596,1.13
+2013,Chennai Super Kings,Death Overs,860,28,478,1.8
+2014,Mumbai Indians,Powerplay,690,19,564,1.22
+2014,Delhi Daredevils,Powerplay,577,23,518,1.11
+2014,Royal Challengers Bangalore,Middle Overs,937,30,771,1.22
+2014,Kings XI Punjab,Death Overs,768,32,458,1.68
+2014,Sunrisers Hyderabad,Death Overs,604,32,400,1.51
+2015,Rajasthan Royals,Powerplay,579,15,485,1.19
+2019,Sunrisers Hyderabad,Powerplay,845,12,564,1.5
+2021,Mumbai Indians,Death Overs,540,44,382,1.41
+2021,Royal Challengers Bangalore,Death Overs,638,35,421,1.52
+2021,Chennai Super Kings,Death Overs,836,26,460,1.82
+2021,Punjab Kings,Middle Overs,994,35,766,1.3
+2022,Kolkata Knight Riders,Middle Overs,1084,47,784,1.38
+2023,Chennai Super Kings,Death Overs,685,28,420,1.63
+2023,Mumbai Indians,Middle Overs,1311,33,887,1.48
+2024,Gujarat Titans,Middle Overs,903,33,671,1.35
+2025,Sunrisers Hyderabad,Middle Overs,1145,31,743,1.54
+2025,Punjab Kings,Powerplay,1075,32,668,1.61
+2025,Gujarat Titans,Powerplay,830,12,562,1.48
+2026,Kolkata Knight Riders,Middle Overs,1042,33,725,1.44
+2026,Chennai Super Kings,Death Overs,620,24,392,1.58
+2008,Kolkata Knight Riders,Powerplay,534,29,494,1.08
+2009,Mumbai Indians,Middle Overs,810,22,721,1.12
+2012,Kolkata Knight Riders,Middle Overs,1083,37,924,1.17
+2012,Delhi Daredevils,Death Overs,518,28,348,1.49
+2013,Pune Warriors,Death Overs,620,50,466,1.33
+2013,Kings XI Punjab,Middle Overs,1084,35,866,1.25
+2013,Kolkata Knight Riders,Death Overs,627,40,444,1.41
+2015,Kings XI Punjab,Middle Overs,832,39,739,1.13
+2016,Royal Challengers Bangalore,Middle Overs,1327,26,882,1.5
+2016,Kolkata Knight Riders,Death Overs,564,29,363,1.55
+2016,Delhi Daredevils,Powerplay,581,24,523,1.11
